@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer of fullstack web development.
+Software engineer of Backend web development.
 
 <!--
 **Subaruuuu/Subaruuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
