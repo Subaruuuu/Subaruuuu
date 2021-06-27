@@ -5,7 +5,7 @@ Software engineer of Backend web development.
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently improving on **data Structure** and **Algorithm**
 - 👯 I’m looking to collaborate on some cool stuff or open source.
-- 📫 How to reach me: [email](meteorbs13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/oscar-hung-416349178/).
+- 📫 How to reach me: [email](mailto:meteorbs13@gmail.com) or [LinkedIn](https://www.linkedin.com/in/oscar-hung-416349178/).
 
 <!--
 **Subaruuuu/Subaruuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
